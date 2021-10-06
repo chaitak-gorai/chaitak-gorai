@@ -3,12 +3,12 @@
 
 ## I'm a Computer Science Enthusiast , Web Developer and a passionate learner. 
 
-- 🎓 I am currently in 1st year, B.Tech in Computer Science from IEM,Kolkata
+- 🎓 I am currently in 2st year, B.Tech in Computer Science from IEM,Kolkata
 - 👨‍💻 I am a web development enthusiast.
 - 👯 I ❤️  competitive coding.
 - ☁️ I learned working in Google Cloud (through GC faciliator program)
--  👨‍💻 I learnt PHP and created a cms [project](https://github.com/chaitak-gorai/blogbook)
--  👨‍💻 Currently learning Modern Javascript and exploring opensource.
+-  👨‍💻I am the maintainer of my own open-source project [Blogbook](https://github.com/chaitak-gorai/blogbook)
+-  👨‍💻 Currently learning React and exploring opensource.
 
 ---
 ### Connect with me:
@@ -46,6 +46,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/{chaitak-gorai}/count.svg)
 
 ---
+
+[![Chaitak's github activity graph](https://activity-graph.herokuapp.com/graph?username=chaitak-gorai&theme=react-dark)](https://github.com/chaitak-gorai/github-readme-activity-graph)
+
 
 [instagram]: https://www.instagram.com/i_m_chaitak/
 [linkedin]: https://www.linkedin.com/in/chaitakgorai/
