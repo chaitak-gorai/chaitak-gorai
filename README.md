@@ -47,8 +47,9 @@
 
 ---
 
-[![Chaitak's github activity graph](https://activity-graph.herokuapp.com/graph?username=chaitak-gorai&theme=react-dark)](https://github.com/chaitak-gorai/github-readme-activity-graph)
+<!-- [![Chaitak's github activity graph](https://activity-graph.herokuapp.com/graph?username=chaitak-gorai&theme=react-dark)](https://github.com/chaitak-gorai/github-readme-activity-graph) -->
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=chaitak-gorai&theme=react-dark)](https://github.com/chaitak-gorai/github-readme-activity-graph)
 
 [instagram]: https://www.instagram.com/i_m_chaitak/
 [linkedin]: https://www.linkedin.com/in/chaitakgorai/
