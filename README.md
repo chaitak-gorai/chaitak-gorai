@@ -18,7 +18,7 @@
 <picture> <img align="right" src="https://github.com/chaitak-gorai/chaitak-gorai/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
+- NOT UPDATED
 - :school: I am a `Junior` at [Computer Science and Engineering](https://sites.google.com/iemcal.com/iemk-cse) at [IEM, Kolkata](https://iem.edu.in/).
 - :technologist: I am a `Full-Stack` Software Developer in `MERN` stack.
 - :student: Leadership: `Chair @ACM-IEM`, `Organiser` [Diversion](https://diversion.tech) `Google Cloud Facilitator` `Tech Lead @MSC-IEM`.
