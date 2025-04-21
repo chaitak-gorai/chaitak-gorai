@@ -18,15 +18,13 @@
 <picture> <img align="right" src="https://github.com/chaitak-gorai/chaitak-gorai/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- NOT UPDATED
-- :school: I am a `Junior` at [Computer Science and Engineering](https://sites.google.com/iemcal.com/iemk-cse) at [IEM, Kolkata](https://iem.edu.in/).
-- :technologist: I am a `Full-Stack` Software Developer in `MERN` stack.
-- :student: Leadership: `Chair @ACM-IEM`, `Organiser` [Diversion](https://diversion.tech) `Google Cloud Facilitator` `Tech Lead @MSC-IEM`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :student: I'm a `Open-Source` enthusiast and a maintainer of [Blogbook](https://github.com/chaitak-gorai/blogbook)
+- 💻 Currently working as a Software Engineer @ Juspay
+- :school: I am graduated in Computer Science and Engineering from [IEM, Kolkata](https://iem.edu.in/).
+- :technologist: I am a `Full-Stack` Software Developer.
+- :student: Leadership : `Ex-Chair @ACM-IEM`, `Ex-Organiser` [Diversion](https://diversion.tech) `Ex- Google Cloud Facilitator` `Ex-Tech Lead @MSC-IEM`.
+- :student: I’m currently learning `Rust` and `Systems Design`.
+- :student: I'm a `Open-Source` enthusiast from past 5 years and a maintainer of [Blogbook](https://github.com/chaitak-gorai/blogbook)
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://chaitak.me/).
-- :boom: You can visit [MY WEBSITE](http://chaitak.me/).
   <br>
 
 
